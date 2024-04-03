@@ -28,3 +28,10 @@ MEMO_QUERY=/api/v1/memo?creatorId=1  # Memos query
 ```sh
 python run.py
 ```
+
+## TODO
+
+On Obsidian :
+- add generation options for Obsidian
+- remove collapse comments
+- fix image path
